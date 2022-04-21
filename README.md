@@ -10,7 +10,12 @@ Switched careers mid 2021 when I joined Moringa School where I undertook a 6-mon
 *   🖥️  See my portfolio at [shaviyavictor](http://shaviyavictor.github.io/shaviya/)
 *   ✉️  You can contact me at [shaviyavictor@gmail.com](mailto:shaviyavictor@gmail.com)
 *   🧠  I'm learning React
-*   🤝  I'm open to collaborating on interesting projects.### Skills<p align="left">
+*   🤝  I'm open to collaborating on interesting projects.
+
+
+### Skills
+
+<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
