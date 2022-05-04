@@ -33,7 +33,7 @@
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://shaviyavictor.github.io/shaviya/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://shaviyavictor.github.io/shaviya/)
 [![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://shaviyavictor.github.io/shaviya/)
-[![psql](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://shaviyavictor.github.io/shaviya/)
+[![psql](https://img.shields.io/badge/PSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://shaviyavictor.github.io/shaviya/)
 [![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://shaviyavictor.github.io/shaviya/)
 
 ### 🧑‍💻 Technologies
