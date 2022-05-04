@@ -11,7 +11,7 @@
 
 - 📝 I create and post christian content on my [instagram blog page](https://www.instagram.com/ignition_reads/)
 
-- 📫 Reach me via [![shaviyavictor@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shaviyavictor@gmail.com)
+- 📫 Reach me via **shaviyavictor@gmail.com**
 
 ### 🤝 Connect with me:
 
