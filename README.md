@@ -1,4 +1,4 @@
-[![shaviyavictor.github.io/shaviya](https://user-images.githubusercontent.com/70439799/150669911-f4770983-6987-48b8-ad53-a5542231e894.gif)](https://shaviyavictor.github.io/shaviya/)
+[![shaviyavictor.github.io/shaviya](https://github.com/ShaviyaVictor/ShaviyaVictor/blob/main/shaviyavictor.gif)](https://shaviyavictor.github.io/shaviya/)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shaviya</h1>
 <h3 align="center">🌐 Full Stack Dev 🎨 creator ✈️ Internet Explorer</h3>
