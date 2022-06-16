@@ -1,6 +1,6 @@
 [![shaviyavictor.github.io/shaviya](https://github.com/ShaviyaVictor/ShaviyaVictor/blob/main/shaviyavictor.gif)](https://shaviyavictor.github.io/shaviya/)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shaviya</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">, I'm Shaviya</h1>
 <h3 align="center">🌐 Full Stack Dev 🎨 creator ✈️ Internet Explorer</h3>
 
 - 💬 Ask me about **Web Development**
@@ -33,8 +33,6 @@
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://shaviyavictor.github.io/shaviya/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://shaviyavictor.github.io/shaviya/)
 [![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://shaviyavictor.github.io/shaviya/)
-[![psql](https://img.shields.io/badge/PSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://shaviyavictor.github.io/shaviya/)
-[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://shaviyavictor.github.io/shaviya/)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🧑‍💻 Technologies
@@ -42,7 +40,6 @@
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://shaviyavictor.github.io/shaviya/)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://shaviyavictor.github.io/shaviya/)
 [![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://shaviyavictor.github.io/shaviya/)
-[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://shaviyavictor.github.io/shaviya/)
 
 ### 🧩 Frameworks/Libraries
 
@@ -82,6 +79,7 @@
 
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://shaviyavictor.github.io/shaviya/)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 [![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://shaviyavictor.github.io/shaviya/)
 [![notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://shaviyavictor.github.io/shaviya/)
 [![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://shaviyavictor.github.io/shaviya/)
