@@ -1,6 +1,6 @@
 [![shaviyavictor.github.io/shaviya](https://github.com/ShaviyaVictor/ShaviyaVictor/blob/main/shaviyavictor.gif)](https://shaviyavictor.github.io/shaviya/)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" heigh="10px">, I'm Shaviya</h1>
+<h1 align="center">Hi 👋, I'm Shaviya</h1>
 <h3 align="center">🌐 Full Stack Dev 🎨 creator ✈️ Internet Explorer</h3>
 
 - 💬 Ask me about **Web Development**
@@ -107,3 +107,4 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShaviyaVictor.ShaviyaVictor)
 
 <!--  Credits(https://github.com/RakeshPotnuru) -->
+
