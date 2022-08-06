@@ -140,9 +140,13 @@
 ---
 
 <details>
-  <summary>🧑‍🔬 This week I did</summary>
   
-  [![Shaviya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsrakesh&theme=github_dark&hide_border=true)](https://wakatime.com/@itsrakesh)
+  <summary>
+    🧑‍🔬 This week I did
+  </summary>
+  
+  [![Shaviya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsrakesh&theme=github_dark&hide_border=true)]
+  
 </details>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShaviyaVictor.ShaviyaVictor)
