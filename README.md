@@ -143,14 +143,17 @@
 <details>
   
   <summary>
-    🧑‍🔬 This week I did
+    🧑‍🔬 This week I did:
   </summary>
   
-  [![Shaviya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsrakesh&theme=github_dark&hide_border=true)](https://wakatime.com/@itsrakesh)
+  [![Shaviya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shaviyavictor&theme=github_dark&hide_border=true)](https://wakatime.com/@shaviyavictor)
   
 </details>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShaviyaVictor.ShaviyaVictor)
 
-<!--  Credits(https://github.com/RakeshPotnuru) -->
+<!--  
+      Credits(https://github.com/RakeshPotnuru) &&
+      (https://wakatime.com/@itsrakesh)
+-->
 
