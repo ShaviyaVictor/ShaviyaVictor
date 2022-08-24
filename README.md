@@ -146,7 +146,7 @@
     🧑‍🔬 This week I did:
   </summary>
   
-  [![Shaviya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shaviyavictor&theme=github_dark&hide_border=true)](https://wakatime.com/@shaviyavictor)
+  [![Shaviya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shaviya&theme=github_dark&hide_border=true)](https://wakatime.com/@shaviyavictor)
   
 </details>
 
