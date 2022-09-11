@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Java**|**DevOps**|**Kubernetes**
 
 - 👨‍💻 Some of my projects are available [here](https://shaviyavictor.github.io/shaviya/#portfolio)
 
