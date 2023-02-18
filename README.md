@@ -1,12 +1,12 @@
 [![shaviyavictor.github.io/shaviya](https://github.com/ShaviyaVictor/ShaviyaVictor/blob/main/shaviyavictor.gif)](https://shaviyavictor.github.io/shaviya/)          
 
-[top-github-users](https://github.com/ShaviyaVictor/top-github-users)         
-
 <img
   src="https://github.com/ShaviyaVictor/ShaviyaVictor/blob/main/2023-02-18%2016-15-16_JAM_ranking%231.png?raw=true"
   alt="top-github-users"
   title="gayanvoice/top-github-users"
   style="display: inline-block; margin: 0 auto; max-height: 300px">          
+
+[Top Github Users](https://github.com/ShaviyaVictor/top-github-users)         
 
 <h3 align="center">🌐 Full Stack Dev 🎨 creator ✈️ Internet Explorer</h3>
 
