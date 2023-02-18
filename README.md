@@ -6,7 +6,7 @@
   title="gayanvoice/top-github-users"
   style="display: inline-block; margin: 0 auto; max-height: 300px">          
 
-[Top Github Users](https://github.com/ShaviyaVictor/top-github-users)         
+[Top Github Users By Country](https://github.com/ShaviyaVictor/top-github-users)         
 
 <h3 align="center">🌐 Full Stack Dev 🎨 creator ✈️ Internet Explorer</h3>
 
