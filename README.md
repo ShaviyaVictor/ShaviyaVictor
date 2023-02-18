@@ -1,6 +1,13 @@
-[![shaviyavictor.github.io/shaviya](https://github.com/ShaviyaVictor/ShaviyaVictor/blob/main/shaviyavictor.gif)](https://shaviyavictor.github.io/shaviya/)
+[![shaviyavictor.github.io/shaviya](https://github.com/ShaviyaVictor/ShaviyaVictor/blob/main/shaviyavictor.gif)](https://shaviyavictor.github.io/shaviya/)          
 
-<h1 align="center">Hi 👋, I'm Shaviya</h1>
+[top-github-users](https://github.com/ShaviyaVictor/top-github-users)         
+
+<img
+  src="https://github.com/ShaviyaVictor/ShaviyaVictor/blob/main/2023-02-18%2016-15-16_JAM_ranking%231.png?raw=true"
+  alt="top-github-users"
+  title="gayanvoice/top-github-users"
+  style="display: inline-block; margin: 0 auto; max-height: 300px">          
+
 <h3 align="center">🌐 Full Stack Dev 🎨 creator ✈️ Internet Explorer</h3>
 
 - 💬 Ask me about **Web Development**
