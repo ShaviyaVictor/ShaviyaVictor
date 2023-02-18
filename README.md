@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 🌱 I’m currently learning **Spring Boot**|**Azure DevOps**|**Linode**
+- 🌱 I’m currently learning **Spring Boot**|**ReactJS**|**Azure DevOps**|**Django**|**Linode**
 
 - 👨‍💻 Some of my projects are available [here](https://shaviyavictor.github.io/shaviya/#portfolio)
 
